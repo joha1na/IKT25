@@ -1,0 +1,1 @@
+Git saves the project history as a series of full project snapshots.
