@@ -1,0 +1,3 @@
+Git is a distributed version control system. It is open source and free.
+It is used to track versions of files.
+It also handles projects of various sizes efficiently.
